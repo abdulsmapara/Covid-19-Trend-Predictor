@@ -11,5 +11,5 @@
 1. The weather data was collected from the API - https://www.worldweatheronline.com/developer/api/
 1. Lockdown information was obtained from news articles
 
-* Data last updated on 14<sub>th</sub> April, 2020
+* Data last updated on 14<sup>th</sup> April, 2020
 

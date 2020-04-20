@@ -20,7 +20,7 @@
 
 #### Contributing
 * Submit a Pull Request but before that please make sure to raise an issue.
-* For more details, please refer CONTRIBUTING.md
+* For more details, please refer [CONTRIBUTING.md](https://github.com/abdulsmapara/Covid-19-Trend-Predictor/blob/master/CONTRIBUTING.md)
 
 #### References
 

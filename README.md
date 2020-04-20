@@ -22,6 +22,11 @@
 * Submit a Pull Request but before that please make sure to raise an issue.
 * For more details, please refer CONTRIBUTING.md
 
+#### References
+
+* Jason Brownlee, Multivariate Time Series Forecasting with LSTMs in Keras, Machine Learning Mastery, Available from https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/, accessed April, 2020
+
+
 
 *Data (including Actual No. of cases, historical weather, weather forecast) last updated on 14<sup>th</sup> April, 2020
 
